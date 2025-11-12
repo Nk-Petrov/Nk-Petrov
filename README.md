@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-Nk-Petrov-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-Nk%20Petrov-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <div align="center">
@@ -63,4 +63,3 @@ Projeto feito com o intuito de trazer segurança e leveza.
 ### 📜 **LICENÇA**
 
 Todos os direitos reservados © 2025 YutaBot-MD.
-
