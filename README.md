@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <p>
-    <img src="https://qu.ax/dCeFb.jpg" alt="YUTABOT-MD" width="720">
+    <img src="https://qu.ax/dCeFb.jpg" alt="YUTABOT-MD ‰" width="720">
   </p>
 </h1>
 
@@ -23,5 +23,5 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nk-Petrov/Nk-Petrov/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="YutaBot Pacman Animation">
 </p>
