@@ -22,11 +22,6 @@
 [![Repositório HutaoBot](https://img.shields.io/badge/Visitar%20HutaoBot%20MD-ff69b4?style=for-the-badge&logo=github)](https://github.com/Lm-Only/HutaoBot-MD)
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-</div>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NkPetrov/NkPetrov/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="YutaBot Pacman Animation">
 </p>
