@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=8A2BE2&center=true&vCenter=true&lines=%C2%A9+𝐘𝐮𝐭𝐚𝐁𝐨𝐭-𝑴𝑫+⸺͟͞✰;𝐒𝐏𝐄𝐄𝐃+𝐈𝐍+𝐀+𝐒𝐈𝐍𝐆𝐋𝐄+𝐁𝐎𝐓;𖤐𖤐𖤐𖤐𖤐" alt="YutaBot-MD Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=8A2BE2&center=true&vCenter=true&lines=%C2%A9+𝐘𝐔𝐓𝐀𝐁𝐎𝐓-𝐌𝐃;𝐒𝐏𝐄𝐄𝐃+𝐈𝐍+𝐀+𝐒𝐈𝐍𝐆𝐋𝐄+𝐁𝐎𝐓;𖤐𖤐𖤐𖤐𖤐" alt="YutaBot-MD Typing Animation">
 </p>
 
 <h1 align="center">
