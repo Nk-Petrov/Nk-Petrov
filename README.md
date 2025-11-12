@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img title="Autor" src="https://img.shields.io/badge/Autor-Nk%20Petrov-orange.svg?style=for-the-badge&logo=github">
+  <img title="Autor" src="https://img.shields.io/badge/Autor-@Nk%20Petrov-orange.svg?style=for-the-badge&logo=github">
 </p>
 
 <div align="center">
