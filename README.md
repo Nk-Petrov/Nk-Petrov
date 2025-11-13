@@ -17,9 +17,15 @@
 </p>
 
 <div align="center">
-  
-[![Support](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559183721035)
-[![Repositório HutaoBot](https://img.shields.io/badge/Visitar%20HutaoBot%20MD-ff69b4?style=for-the-badge&logo=github)](https://github.com/Lm-Only/HutaoBot-MD)
+  <a href="https://chat.whatsapp.com/Ix01tGK4gBl07wQGr9jo4C">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo do WhatsApp">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Lm-Only/HutaoBot-MD">
+    <img src="https://img.shields.io/badge/Visitar%20HutaoBot%20MD-ff69b4?style=for-the-badge&logo=github" alt="Repositório HutaoBot">
+  </a>
 </div>
 
 <p align="center">
