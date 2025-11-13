@@ -1,3 +1,22 @@
+<div align="center">
+  <table>
+    <tr>
+      <td align="right" style="padding-right: 15px;">
+        <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 50%; border: 3px solid #8A2BE2;">
+      </td>
+      <td align="left">
+        <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
+          @Nk-Petrov
+          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="24" style="vertical-align: middle;">
+        </h2>
+        <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
+          Desenvolvedor | Harunni Petrøv (Priscilla) 💍
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=8A2BE2&center=true&vCenter=true&lines=𝐘𝐔𝐓𝐀𝐁𝐎𝐓-𝐌𝐃;𝐒𝐏𝐄𝐄𝐃+𝐈𝐍+𝐀+𝐒𝐈𝐍𝐆𝐋𝐄+𝐁𝐎𝐓;𖤐𖤐𖤐𖤐𖤐" alt="YutaBot-MD Typing Animation">
 </p>
