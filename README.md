@@ -7,7 +7,7 @@
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
           @Nk-Petrov
-          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="19" style="vertical-align: middle;">
+          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
         </h2>
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
