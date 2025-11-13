@@ -1,15 +1,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="right" style="padding-right: 15px;">
+      <td align="right" valign="middle" style="padding-right: 15px;">
         <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 50%; border: 3px solid #8A2BE2;">
       </td>
-      <td align="left">
+      <td align="left" valign="middle" style="transform: translateY(-1px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
           @Nk-Petrov
-          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="24" style="vertical-align: middle;">
+          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
         </h2>
-        <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
+        <p style="margin: 30px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
         </p>
       </td>
@@ -39,7 +39,7 @@
   <a href="https://chat.whatsapp.com/Ix01tGK4gBl07wQGr9jo4C">
     <img src="https://img.shields.io/badge/Grupo%20do%20WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo do WhatsApp">
   </a>
-    <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q">
+  <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q">
     <img src="https://img.shields.io/badge/Canal%20do%20WhatsApp-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal do Whatsapp">
   </a>
 </div>
