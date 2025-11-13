@@ -4,12 +4,12 @@
       <td align="right" valign="middle" style="padding-right: 15px;">
         <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 50%; border: 3px solid #8A2BE2;">
       </td>
-      <td align="left" valign="middle" style="transform: translateY(-1px);">
+      <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
           @Nk-Petrov
-          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
+          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="19" style="vertical-align: middle;">
         </h2>
-        <p style="margin: 30px 0; color: #ccc; font-family: monospace; font-size: 14px;">
+        <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
         </p>
       </td>
