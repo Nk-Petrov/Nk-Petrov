@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 50%; border: 3px solid #8A2BE2;">
+        <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
@@ -12,13 +12,19 @@
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
         </p>
+        <p style="margin: 8px 0 0 0;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin-right: 6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" style="margin-right: 6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36" style="margin-right: 6px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36">
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=8A2BE2&center=true&vCenter=true&lines=𝐘𝐔𝐓𝐀𝐁𝐎𝐓-𝐌𝐃;𝐒𝐏𝐄𝐄𝐃+𝐈𝐍+𝐀+𝐒𝐈𝐍𝐆𝐋𝐄+𝐁𝐎𝐓;𖤐𖤐𖤐𖤐𖤐" alt="YutaBot-MD Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=8A2BE2&center=true&vCenter=true&lines=𝐘𝐔𝐓𝐀𝐁𝐎𝐓-𝐌𝐃;𝐒𝐏𝐄𝐄𝐃+𝐈𝐍+𝐀+𝐒𝐈𝐍𝐆𝐋𝐄+𝐁𝐎𝐓;𖤐𖤐𖤐𖤐𖤐" alt="Typing Animation">
 </p>
 
 <h1 align="center">
@@ -51,5 +57,5 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="YutaBot Pacman Animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animation">
 </p>
