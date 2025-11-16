@@ -1,8 +1,11 @@
 <div align="center">
+  <img src="https://qu.ax/ZYpdn.jpg" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;">
+</div>
+<div align="center">
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://qu.ax/Qkagt.png" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
+        <img src="https://qu.ax/ETppz.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
