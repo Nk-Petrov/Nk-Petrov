@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://qu.ax/ZYpdn.jpg" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;">
+  <img src="https://files.catbox.moe/njxfa9.jpg" alt="Banner" width="100%" style="max-width: 900px; border-radius: 10px;">
 </div>
 <div align="center">
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://files.catbox.moe/3syz4c.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
+        <img src="https://files.catbox.moe/mvz0sx.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
           Nk Petrøv ./∞
-          <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
+          <img src="https://files.catbox.moe/neeyp1.png" alt="Verificado" width="20" style="vertical-align: middle;">
         </h2>
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
@@ -32,7 +32,7 @@
 
 <h1 align="center">
   <p>
-    <img src="https://qu.ax/dCeFb.jpg" alt="YUTABOT-MD ‰" width="720">
+    <img src="https://files.catbox.moe/n83fa4.jpg" alt="YUTABOT-MD ‰" width="720">
   </p>
 </h1>
 
