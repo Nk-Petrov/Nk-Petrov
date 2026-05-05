@@ -6,12 +6,12 @@
   <table>
     <tr>
       <td align="right" valign="middle" style="padding-right: 15px;">
-        <img src="https://files.catbox.moe/mvz0sx.jpg" alt="Foto de Perfil" width="120" height="120" style="border-radius: 0; border: 3px solid #8A2BE2;">
+        <img src="https://files.catbox.moe/mvz0sx.jpg" width="120" height="120" style="border: 3px solid #8A2BE2;">
       </td>
       <td align="left" valign="middle" style="transform: translateY(-3px);">
         <h2 style="margin: 0; font-family: monospace; color: #8A2BE2;">
           Nk Petrøv ./∞
-          <img src="https://files.catbox.moe/neeyp1.png" alt="Verificado" width="20" style="vertical-align: middle;">
+          <img src="https://files.catbox.moe/neeyp1.png" width="20">
         </h2>
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
           Desenvolvedor | Harunni Petrøv (Priscilla) 💍
@@ -45,10 +45,10 @@
 
 <div align="center">
   <a href="https://yuta-apis.xyz">
-    <img src="https://img.shields.io/badge/API-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/API-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://yuta-apis.xyz/docs">
-    <img src="https://img.shields.io/badge/DOCS-4B0082?style=for-the-badge&logo=readthedocs&logoColor=white">
+    <img src="https://img.shields.io/badge/DOCS-4B0082?style=for-the-badge&logo=swagger&logoColor=white">
   </a>
 </div>
 
@@ -58,8 +58,8 @@
   <a href="https://chat.whatsapp.com/Ix01tGK4gBl07wQGr9jo4C">
     <img src="https://img.shields.io/badge/WhatsApp-1E90FF?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://whatsapp.com/channel/0029VbBbHVs7oQhTLxKWBW2q">
-    <img src="https://img.shields.io/badge/Channel-FF00FF?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://whatsapp.com/channel/0029Vb7gpUpBfxo5TmvUP00u">
+    <img src="https://img.shields.io/badge/Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
 
